@@ -36,3 +36,12 @@
 27 PCN-index                     F7.2     ⌋
 
 ```
+
+## Data Availibility 
+* `From 1981 to March 2025`
+
+* `Year 1988 Not Available`
+
+* `January 1995 Not Available`
+
+* `Rest, Many Attributes Contain *NaN* values`
