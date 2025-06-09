@@ -5,3 +5,4 @@ ipympl
 matplotlib
 seaborn
 missingno
+scikit-learn
